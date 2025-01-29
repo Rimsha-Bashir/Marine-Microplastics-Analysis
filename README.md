@@ -22,13 +22,17 @@ Exported from the [NCEI Marine Microplastic Map Portal](https://www.ncei.noaa.go
 ## Project Objectives
 
 1. Exploratory Data Analysis (EDA) :
+
     1.1 To visualize and perform a statistical study of the data, including mean, median, and standard deviation for Microplastic Density and distriution across Oceans and Regions.
+
     1.2 To find correlation of variables like Microplastic Density measurement, Microplastic Material density range, and coordinates (latitude, longitude).
 
 2. GeoSpatial Analysis : To identify regions and subregions with a higher concentration of microplastic based on the density class, and subregions.
 
 3. Time Series Analysis of Density Distribution :
+
     3.1 To study trends in density over time, by region or subregions and sampling methods.
+
     3.2 To develop a time series forecasting model to predict future measurements or density classes.
 
 4. Anomaly Detection : To identify spatial outliers where environmental conditions (e.g., measurements, density) are significantly different from neighboring areas, potentially indicating unusual phenomena or errors in the data.
