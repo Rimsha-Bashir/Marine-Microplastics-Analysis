@@ -39,4 +39,4 @@ Exported from the [NCEI Marine Microplastic Map Portal](https://www.ncei.noaa.go
 
 ### Jupyter Notebook Preview 
 
-[NBViewer Preview - Marine Microplastics : Spatio-temporal Analysis](https://nbviewer.org/github/Rimsha-Bashir/marine-mp-test/blob/main/src/marine-microplastic-modeling.ipynb) 
+[NBViewer Preview - Marine Microplastics : Spatio-temporal Analysis](https://nbviewer.org/github/Rimsha-Bashir/Marine-Microplastics-Analysis/blob/main/src/marine-microplastic-modeling.ipynb) 
